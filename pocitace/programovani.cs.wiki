@@ -1,0 +1,27 @@
+= Programování a programovací jazyky
+
+== Teorie
+
+* Principy počítačů a ukládání dat
+* Algoritmizace a obecné principy programování
+* Procedurální a objektové programování
+* Dynamické datové struktury
+* Automaty a gramatiky
+
+== Programovací jazyky
+
+* C a C++
+* Pascal, FreePascal, ObjectPascal
+* Python
+* POSIX shell
+
+Další programovací jazyky podle přání. Znalost
+konkrétního programovacího jazyka není zdaleka
+nejdůležitější součástí programování.
+
+== Platformy a nástroje
+
+* POSIX platformy -- Linux, BSD, Unix
+* Vývojářské nástroje GNU -- gcc, gdb, make, vim
+* Programování TCP/IP aplikací
+* SQL databáze

@@ -1,0 +1,52 @@
+= Doučování matematiky a informatiky
+
+//Information in English may or may not be coming soon. Please see the [[kontakt|contact page]].//
+
+Vítejte na mých stránkách, kde nabízím **doučování matematických a informatických předmětů**. Moje začátky s šířením znalostí mezi ostatní sahají přibližně do doby, kdy jsem začal chodit do školy. Dneska učím lidi různého věku, úrovně, představivosti i schopností.
+
+Můžete ode mě očekávat **příjemnou formu výuky**, **názorné příklady** a **trpělivý přístup** a můžu slíbit, že se kromě vylepšení svých znalostí občas i zasmějete.
+
+Cena závisí na předmětu a úrovni znalostí, které si chcete doplnit, a pohybuje se v běžných mezích, spokojenost garantována vrácením peněz za lekci.
+
+Studuju informatiku na [[http://www.mff.cuni.cz/|MFF UK]] a věnuju se
+[[http://www.netinstall.cz/|práci v oblasti informačních technologií a školení]].
+
+V případě zájmu mě [[kontakt|kontaktujte]].
+
+== Způsob, místo a čas práce
+
+Vyučovací hodina má u mě 60 minut. Preferuju krátkodobá intenzivní doučování, nebráním se práci více hodin v kuse s přestávkami. Je možné
+domluvit i dlouhodobou spolupráci, kdy se na hodině domluví datum a čas příští hodiny. Čas
+doučování není omezen denní dobou ani pracovním týdnem.
+
+Doučování probíhá v Praze ve Vršovicích. Podle situace a počasí pracujeme u mě doma nebo v okolí (zahrádky kaváren/restaurací,
+stolky v nákupním centru). Běžně nedojíždím. Pokud na dojíždění trváte, připravte se na příplatek za čas strávený na cestě.
+
+Hodiny se platí jednotlivě na každé hodině. Předplácení i doplácení se radši vyhýbám.
+
+Bez ohledu na věk jsou mými zákazníky sami studenti. Nemám nic proti tomu, když si vezmete na některou hodinu rodiče, ať vidí jak
+výuka probíhá. Smysluplnost doučování a platbu za hodinu pak řeším přímo se studentem, abych předešel případům, kdy studenta
+doučování nezajímá. Mám ve zvyku si se studenty tykat.
+
+== Oblasti
+
+Následující seznam oblastí doučování je orientační, můžete se na mě obrátit s jakoukoli poptávkou.
+
+=== Doučování informatiky
+
+* [[pocitace/zaklady|Základy počítačů]]
+* [[pocitace/programovani|Programování, databáze, operační systémy]]
+* [[pocitace/pocitacove-site|Počítačové sítě]]
+
+=== Doučování matematiky
+
+* [[matematika/zs|Matematika základní školy (ZŠ]]
+* [[matematika/ss|Středoškolská matematika (SŠ)]]
+* [[matematika/vs|Vysokoškolská matematika (VŠ)]]
+* [[matematika/prakticka-matematika|Praktická matematika a matematika v zaměstnání]]
+
+=== Speciální doučování
+
+Jednou za čas se mi stává, že mě kontaktuje někdo s problémem, který několik předchozích doučujících
+nevyřešilo. V takové chvíli využívám všech dostupných zdrojů (Internet, technická knihovna, vlastní
+hlava, atd) k tomu abych vám řešení zjistil a později podrobně a srozumitelně vysvětlil.

@@ -1,0 +1,13 @@
+= Počítačové sítě TCP/IP
+
+* Základy počítačových sítí
+* Referenční architektura ISO/OSI
+* Základní principy TCP/IP
+* Protokol IP -- pakety, adresy, routing
+* Protokol UDP -- multiplexing, datagramy
+* Protokol TCP -- spojení, potvrzování
+* Drátový a bezdrátový ethernet
+* Huby, repeatery
+* Bridge, switche
+* Routery, L3 switche, multilevel switche
+* Programování TCP/IP

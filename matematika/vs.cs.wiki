@@ -1,0 +1,11 @@
+= Matematika vysoké školy (VŠ)
+.meta keywords=VŠ, doučování VŠ
+
+* Celoroční příprava na zkoušky, individuální přístup
+* Co se nestihlo na střední škole
+* Posloupnosti a řady čísel, limity a součty
+* Funkce, limity, derivace, integrály a jejich užití
+* Posloupnosti a řady funkcí
+* Matice, vektory, lineární algebra
+* Základy finanční matematiky
+* Matematika napříč obory

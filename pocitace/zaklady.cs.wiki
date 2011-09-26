@@ -1,0 +1,19 @@
+= Základy počítačů a informatiky
+
+== Pro začátečníky
+
+* Ovládání počítače a aplikací
+
+== Internet
+
+* Internet a informace
+* Služby na internetu
+* Bezpečné chování na internetu
+
+== Grafika
+
+* Práce s vektorovou a rastrovou grafikou
+
+== Ostatní
+
+* Zabezpečení a zálohování dat

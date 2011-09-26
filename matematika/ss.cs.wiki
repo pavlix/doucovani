@@ -1,0 +1,14 @@
+= Matematika střední školy (SŠ)
+.meta keywords=matematika střední školy, středoškolská matematika, SŠ matematika, matematika SŠ, doučování SŠ
+
+* Proměnné, výroky, množiny, číselné obory, intervaly
+* Číselné obory
+* Výrazy, rovnice a nerovnice
+* Geometrie v rovině a prostoru, goniometrie
+* Funkce, Goniometrie
+* Analytická geometrie
+* Kombinatorika, pravděpodobnost a statistika
+* Posloupnosti a řady
+* Limity, derivace, integrály a průběhy funkcí
+* Komplexní čísla
+* Příprava na přijímací zkoušky na vysoké školy
